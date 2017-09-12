@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Penzias - CT - Events feature.
+ */
+
+include_once 'penzias_ct_events.features.inc';

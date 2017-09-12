@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Penzias - CT - News feature.
+ */
+
+include_once 'penzias_ct_news.features.inc';

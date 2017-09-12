@@ -1,0 +1,12 @@
+name = Penzias - Strongarm
+core = 7.x
+package = Penzias Features
+dependencies[] = ctools
+dependencies[] = strongarm
+features[ctools][] = strongarm:strongarm:1
+features[features_api][] = api:2
+features[variable][] = date_format_long
+features[variable][] = date_format_medium
+features[variable][] = date_format_short
+features[variable][] = date_format_time_only
+project path = sites/academics-biomedical-engineering/modules/custom
